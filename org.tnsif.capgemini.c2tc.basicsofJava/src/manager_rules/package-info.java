@@ -1,1 +1,0 @@
-package manager_rules;
